@@ -1,0 +1,100 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Liam Carter",
+      "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "email": "liam.carter@email.com",
+      "days_since_contact": 15,
+      "status": "on-track",
+      "tags": ["WORK"],
+      "bio": "Office colleague, loves football.",
+      "goal": 14,
+      "next_due_date": "2026-04-25"
+    },
+    {
+      "id": 2,
+      "name": "Noah Anderson",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "email": "noah.anderson@email.com",
+      "days_since_contact": 35,
+      "status": "overdue",
+      "tags": ["COLLEGE"],
+      "bio": "University friend, enjoys coding.",
+      "goal": 21,
+      "next_due_date": "2026-05-10"
+    },
+    {
+      "id": 3,
+      "name": "Ethan Walker",
+      "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=400&q=80",
+      "email": "ethan.walker@email.com",
+      "days_since_contact": 7,
+      "status": "on-track",
+      "tags": ["FRIEND"],
+      "bio": "Gym partner and close friend.",
+      "goal": 14,
+      "next_due_date": "2026-04-22"
+    },
+    {
+      "id": 4,
+      "name": "Mason Hall",
+      "picture": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=400&q=80",
+      "email": "mason.hall@email.com",
+      "days_since_contact": 50,
+      "status": "overdue",
+      "tags": ["WORK", "FRIEND"],
+      "bio": "Old office teammate.",
+      "goal": 30,
+      "next_due_date": "2026-05-01"
+    },
+    {
+      "id": 5,
+      "name": "James Young",
+      "picture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=400&q=80",
+      "email": "james.young@email.com",
+      "days_since_contact": 10,
+      "status": "on-track",
+      "tags": ["FRIEND"],
+      "bio": "Gaming buddy.",
+      "goal": 14,
+      "next_due_date": "2026-04-20"
+    },
+    {
+      "id": 6,
+      "name": "Benjamin Scott",
+      "picture": "https://images.unsplash.com/photo-1502767089025-6572583495b0?auto=format&fit=crop&w=400&q=80",
+      "email": "benjamin.scott@email.com",
+      "days_since_contact": 28,
+      "status": "almost due",
+      "tags": ["FAMILY"],
+      "bio": "Cousin, likes traveling.",
+      "goal": 21,
+      "next_due_date": "2026-04-28"
+    },
+    {
+      "id": 7,
+      "name": "Lucas Turner",
+      "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+      "email": "lucas.turner@email.com",
+      "days_since_contact": 5,
+      "status": "on-track",
+      "tags": ["FRIEND"],
+      "bio": "Neighbor and coffee partner.",
+      "goal": 14,
+      "next_due_date": "2026-04-18"
+    },
+    {
+      "id": 8,
+      "name": "Henry Adams",
+      "picture": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=400&q=80",
+      "email": "henry.adams@email.com",
+      "days_since_contact": 40,
+      "status": "overdue",
+      "tags": ["WORK"],
+      "bio": "Mentor from previous job.",
+      "goal": 30,
+      "next_due_date": "2026-05-12"
+    }
+  ]
+}
